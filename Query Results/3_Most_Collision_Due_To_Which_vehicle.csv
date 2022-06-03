@@ -1,0 +1,502 @@
+VEHICLE_TYPE,NO_OF_PEOPLE_INJURED,NO_OF_PEDESTRIANS_INJURED,NO_OF_CYCLIST_INJURED,NO_OF_MOTORIST_INJURED
+Bike,2627.0,326,2263,30
+Sedan,42377.0,6496,3391,31975
+Station Wagon/Sport Utility Vehicle,31842.0,6055,2772,22599
+Pick-up Truck,1728.0,449,136,1120
+Taxi,3951.0,792,495,2622
+firetruck,1.0,0,0,1
+FDNY,8.0,0,0,8
+Bus,1382.0,236,70,1068
+Van,395.0,110,50,231
+Tractor Truck Diesel,206.0,17,8,180
+Flat Rack,7.0,4,2,1
+PK,96.0,34,13,49
+Box Truck,743.0,113,84,539
+Motorcycle,945.0,84,29,832
+Convertible,175.0,34,21,119
+UTILI,0.0,0,0,0
+trail,1.0,0,0,1
+SHUTTLE BU,0.0,0,0,0
+Carry All,36.0,7,3,25
+UTILITY,0.0,0,0,0
+4 dr sedan,58.0,10,6,40
+Dump,158.0,30,6,115
+APP,2.0,0,0,2
+School Bus,26.0,2,3,21
+Snow Plow,6.0,0,0,5
+3-Door,14.0,1,0,12
+Tractor Truck Gasoline,37.0,1,4,32
+Ambulance,169.0,26,5,134
+BK,1.0,0,0,1
+Garbage or Refuse,109.0,15,9,85
+SCHOOL BUS,0.0,0,0,0
+police rep,2.0,0,0,2
+TRUCK,6.0,1,2,3
+LIMO,24.0,8,3,13
+FRHT,0.0,0,0,0
+garba,0.0,0,0,0
+Flat Bed,62.0,9,7,45
+van,16.0,2,2,12
+bus,0.0,0,0,0
+comm,2.0,0,0,2
+Tow Truck / Wrecker,53.0,8,6,39
+Motorbike,101.0,15,3,83
+E-Bike,682.0,113,273,22
+Fire Truck,1.0,0,0,1
+ambul,2.0,1,0,1
+2 dr sedan,6.0,0,0,6
+FIRTRUCK,0.0,0,0,0
+FIRETRUCK,9.0,0,0,9
+Constructi,0.0,0,0,0
+Excavator,0.0,0,0,0
+Chassis Cab,34.0,1,0,33
+FIRE,0.0,0,0,0
+AMBUL,14.0,2,1,11
+Armored Truck,9.0,2,2,5
+DELIV,1.0,0,1,0
+MOPED,24.0,4,0,20
+fork lift,0.0,0,0,0
+ECONO,0.0,0,0,0
+Refrigerated Van,17.0,4,1,12
+TRL,3.0,0,0,3
+dump truck,0.0,0,0,0
+TRAC,2.0,0,0,2
+trailer,1.0,0,0,1
+Fire truck,0.0,0,0,0
+FORKLIFT,0.0,0,0,0
+Lift Boom,6.0,0,0,6
+Moped,251.0,27,8,216
+E-Scooter,469.0,76,168,5
+Motorscooter,114.0,13,3,98
+FORKL,0.0,0,0,0
+Concrete Mixer,23.0,2,4,17
+SEMI,1.0,0,0,1
+Beverage Truck,4.0,1,0,3
+sanitaion,0.0,0,0,0
+Minicycle,8.0,3,0,5
+ambulance,4.0,0,2,2
+Open Body,14.0,2,1,11
+UPS,0.0,0,0,0
+UTIL,0.0,0,0,0
+Front-Load,1.0,1,0,0
+EBIKE,3.0,0,0,3
+FDNY TRUCK,0.0,0,0,0
+Minibike,9.0,2,0,7
+e-bik,1.0,0,0,1
+Lunch Wagon,5.0,0,0,4
+Tanker,32.0,5,1,26
+Stake or Rack,4.0,1,0,3
+Street Swe,1.0,0,0,1
+SLINGSHOT,1.0,1,0,0
+FIRE TRUCK,9.0,1,0,8
+SCOOT,8.0,1,0,7
+E-BIK,3.0,0,0,3
+fire truck,3.0,0,0,3
+E-Sco,47.0,6,41,0
+AMBULANCE,28.0,2,1,25
+POSTAL TRU,2.0,1,0,1
+Pick up Tr,0.0,0,0,0
+Box T,0.0,0,0,0
+FDNY EMS,0.0,0,0,0
+COMM,0.0,0,0,0
+ambu,1.0,1,0,0
+AMB,3.0,0,0,3
+Trail,0.0,0,0,0
+DELV,5.0,1,0,4
+Pickup with mounted Camper,1.0,0,0,1
+scoot,2.0,0,0,2
+fdny,1.0,0,0,1
+DOT T,0.0,0,0,0
+TRAIL,1.0,0,0,1
+SCOOTER,5.0,1,0,4
+TOW T,1.0,1,0,0
+truck,5.0,0,0,5
+TRAILER,3.0,1,0,2
+Multi-Wheeled Vehicle,16.0,4,0,12
+COMMU,0.0,0,0,0
+pay loader,0.0,0,0,0
+FDNY FIRE,4.0,1,0,3
+GOLF CART,1.0,0,0,1
+MACK,0.0,0,0,0
+Pallet,1.0,0,1,0
+E-Bik,43.0,14,29,0
+Ambul,3.0,0,0,3
+Motorized Home,1.0,0,0,1
+DUMP,1.0,0,0,1
+Bulk Agriculture,3.0,1,0,2
+utili,0.0,0,0,0
+Dump truck,1.0,0,0,1
+Com,1.0,0,0,1
+Postal tru,0.0,0,0,0
+Cement Tru,2.0,0,0,2
+STREE,0.0,0,0,0
+Tow Truck,1.0,1,0,0
+Tow t,0.0,0,0,0
+TRACTOR,3.0,0,0,3
+FDNY AMBUL,1.0,1,0,0
+School bus,2.0,0,0,2
+dump,0.0,0,0,0
+POWER LADD,0.0,0,0,0
+red t,0.0,0,0,0
+YELLOWPOWE,0.0,0,0,0
+CMIX,1.0,0,0,1
+SUBURBAN,0.0,0,0,0
+firet,1.0,0,0,1
+COMME,1.0,0,1,0
+mc,1.0,0,0,1
+FUEL,0.0,0,0,0
+REP,0.0,0,0,0
+TRACT,5.0,1,0,4
+P/SH,1.0,0,0,1
+moped,7.0,0,0,7
+Comme,0.0,0,0,0
+VAN WH,0.0,0,0,0
+Sanit,1.0,0,0,1
+stree,0.0,0,0,0
+SMART CAR,0.0,0,0,0
+TOW TRUCK,0.0,0,0,0
+Scooter,4.0,1,0,3
+SANMEN COU,1.0,1,0,0
+TRUCK VAN,7.0,0,0,7
+TRUCK COMM,0.0,0,0,0
+LIMOU,0.0,0,0,0
+LOCOMOTIVE,0.0,0,0,0
+E-bike,1.0,0,0,1
+AMBU,2.0,2,0,0
+pc,0.0,0,0,0
+SCHOO,2.0,0,0,2
+FDNY FIRET,0.0,0,0,0
+E BIK,2.0,2,0,0
+SELF INSUR,1.0,0,1,0
+AMBULENCE,1.0,0,0,1
+NEW Y,0.0,0,0,0
+scooter,3.0,0,0,3
+NYS AMBULA,1.0,0,0,1
+GARBA,1.0,0,0,1
+FIRET,0.0,0,0,0
+schoo,2.0,1,0,1
+tk,0.0,0,0,0
+FDNY LADDE,4.0,0,0,4
+Subr,1.0,1,0,0
+HWH,0.0,0,0,0
+TOWER,5.0,0,0,5
+ebike,1.0,0,0,1
+Truck,2.0,1,0,1
+CAMP,0.0,0,0,0
+E-BIKE,1.0,0,0,1
+USPS MAIL,0.0,0,0,0
+Electric S,1.0,0,0,1
+Wh Ford co,0.0,0,0,0
+Fire,1.0,0,0,1
+GAS POWERE,1.0,1,0,0
+BOX TRUCK,1.0,0,0,1
+VMS,0.0,0,0,0
+E-UNICYCLE,1.0,0,0,1
+MOTOR SCOO,6.0,1,0,5
+POWER,1.0,0,0,1
+st,0.0,0,0,0
+COM,2.0,0,0,2
+Scoot,3.0,0,0,3
+REFG,1.0,1,0,0
+SEA,0.0,0,0,0
+BS,0.0,0,0,0
+FDNY ENGIN,1.0,0,0,1
+NYPD,0.0,0,0,0
+BROOM,0.0,0,0,0
+UNKNO,1.0,0,1,0
+COMER,0.0,0,0,0
+Cement tru,1.0,1,0,0
+BACK HOE,0.0,0,0,0
+Bicyc,0.0,0,0,0
+SANTI,0.0,0,0,0
+FREIGHTLIN,0.0,0,0,0
+NAVIG,0.0,0,0,0
+Enclosed Body - Nonremovable Enclosure,0.0,0,0,0
+GEN  AMBUL,0.0,0,0,0
+forklift,0.0,0,0,0
+postal ser,0.0,0,0,0
+US POSTAL,1.0,0,0,1
+government,0.0,0,0,0
+STAK,1.0,0,0,1
+Sprinter V,1.0,0,0,1
+Firetruck,1.0,0,0,1
+work truck,3.0,0,0,3
+ omm,0.0,0,0,0
+NTTRL,0.0,0,0,0
+Van Camper,1.0,0,0,1
+Glass Rack,1.0,0,1,0
+USPS,2.0,0,2,0
+Pedicab,7.0,1,6,0
+E REVEL SC,1.0,0,0,1
+USPS truck,0.0,0,0,0
+box,0.0,0,0,0
+Fire Engin,0.0,0,0,0
+utility,0.0,0,0,0
+tow t,1.0,0,0,1
+EMS,0.0,0,0,0
+RV,0.0,0,0,0
+USPCS,0.0,0,0,0
+FRIEG,0.0,0,0,0
+ELECT,13.0,3,1,9
+Box truck,0.0,0,0,0
+DELIVERY,0.0,0,0,0
+UHUAL,0.0,0,0,0
+SANIT,2.0,0,0,2
+RGS,0.0,0,0,0
+Horse,0.0,0,0,0
+SUBUR,0.0,0,0,0
+Enclosed Body - Removable Enclosure,0.0,0,0,0
+Hopper,3.0,0,0,2
+pedicab,1.0,1,0,0
+TRK,0.0,0,0,0
+PICKU,0.0,0,0,0
+D/V WB,0.0,0,0,0
+Government,0.0,0,0,0
+Well Driller,0.0,0,0,0
+MTA BUS,4.0,0,1,3
+Post offic,1.0,0,0,1
+Utili,3.0,0,0,3
+COURI,0.0,0,0,0
+UNKNOWN,0.0,0,0,0
+FLAT  BED,0.0,0,0,0
+house on w,0.0,0,0,0
+GRUMM,1.0,1,0,0
+DUMP TRUCK,0.0,0,0,0
+Tow T,0.0,0,0,0
+PICK UP,6.0,0,0,6
+elect,2.0,1,0,1
+SKID LOADE,0.0,0,0,0
+FLAT,1.0,0,0,1
+Grain,0.0,0,0,0
+APPOR,1.0,0,0,1
+Ambulette,0.0,0,0,0
+G COM,0.0,0,0,0
+18 WHEELER,0.0,0,0,0
+Grumman LL,1.0,0,0,1
+CMS-T,0.0,0,0,0
+ECONOLINE,1.0,0,0,1
+LIEBH,0.0,0,0,0
+suburban,1.0,1,0,0
+PC,5.0,0,0,5
+FREIGHT TR,0.0,0,0,0
+FDNY Ambul,1.0,1,0,0
+subn,0.0,0,0,0
+delviery,0.0,0,0,0
+FIRE ENGIN,0.0,0,0,0
+Sprinter v,0.0,0,0,0
+Work van,0.0,0,0,0
+CRANE,0.0,0,0,0
+PAS,1.0,1,0,0
+BACK,0.0,0,0,0
+TRLR,0.0,0,0,0
+Dumps,0.0,0,0,0
+EMS bus,0.0,0,0,0
+NYC AMBULA,0.0,0,0,0
+USPS TRUCK,1.0,0,1,0
+TIR,0.0,0,0,0
+BOX T,0.0,0,0,0
+COMMERCIAL,0.0,0,0,0
+cater,0.0,0,0,0
+deliv,0.0,0,0,0
+SELF,3.0,1,0,2
+CHEVROLET,1.0,0,0,1
+Forklift,1.0,1,0,0
+UNK,2.0,1,1,0
+com,0.0,0,0,0
+Fork Lift,1.0,1,0,0
+g spc,0.0,0,0,0
+CONT,0.0,0,0,0
+PICKUP,5.0,1,0,4
+DUMPT,0.0,0,0,0
+MTA bus,1.0,0,1,0
+PASSENGER,0.0,0,0,0
+TR-Trailer,0.0,0,0,0
+Acces,0.0,0,0,0
+Trailer,0.0,0,0,0
+SC,0.0,0,0,0
+pickup,1.0,0,0,0
+Dodge,1.0,0,0,1
+sanitaton,0.0,0,0,0
+dumps,1.0,0,1,0
+picku,0.0,0,0,0
+MOTOR HOME,0.0,0,0,0
+ford,0.0,0,0,0
+MTA B,10.0,1,1,8
+50cc Scoot,2.0,0,0,2
+posta,0.0,0,0,0
+tract,2.0,0,0,2
+Yamaha,2.0,0,0,2
+PICKUP TRU,3.0,0,0,3
+Unknown,1.0,1,0,0
+DOT EQUIPM,0.0,0,0,0
+ROAD,1.0,0,0,1
+tow,0.0,0,0,0
+MINI BUS,0.0,0,0,0
+MAIL,0.0,0,0,0
+Fd fi,0.0,0,0,0
+PSH,0.0,0,0,0
+van t,1.0,0,0,1
+forlift,1.0,1,0,0
+CHERV,0.0,0,0,0
+VAN/TRUCK,0.0,0,0,0
+BACKH,4.0,0,0,4
+FLATBED,0.0,0,0,0
+EXCAV,0.0,0,0,0
+Pick up,0.0,0,0,0
+GOVER,0.0,0,0,0
+Power Shov,1.0,1,0,0
+TANKE,0.0,0,0,0
+LIGHT TRAI,1.0,1,0,0
+LADDER TRU,0.0,0,0,0
+sedan,1.0,1,0,0
+Delivery,1.0,1,0,0
+VAV,0.0,0,0,0
+12 Pa,0.0,0,0,0
+TTAILER,0.0,0,0,0
+CHERR,0.0,0,0,0
+Forkl,0.0,0,0,0
+MOTOR,1.0,1,0,0
+TRAILEE,0.0,0,0,0
+MAIL TRUCK,0.0,0,0,0
+Quality tr,0.0,0,0,0
+Budge,0.0,0,0,0
+Tractor,0.0,0,0,0
+e com,0.0,0,0,0
+BICYCLE,1.0,1,0,0
+Firet,0.0,0,0,0
+BUCKE,0.0,0,0,0
+Mopd,0.0,0,0,0
+E-scooter,1.0,0,0,1
+Livestock Rack,1.0,0,0,1
+postal bus,1.0,0,1,0
+AMBULACE,1.0,0,0,0
+Dirt Bike,1.0,0,0,1
+197209,0.0,0,0,0
+Ford,0.0,0,0,0
+BULLDOZER,1.0,0,0,1
+ELECTRIC S,1.0,0,0,1
+Mack,0.0,0,0,0
+Amb,0.0,0,0,0
+CITY,0.0,0,0,0
+PSD,3.0,0,1,2
+OML/OMNIBU,0.0,0,0,0
+Motorscoot,3.0,0,0,3
+gas scoote,2.0,0,0,2
+CAT P,0.0,0,0,0
+Ram Promas,1.0,0,0,1
+PICK UP TR,1.0,0,0,1
+SPARK150 S,1.0,0,0,1
+G PSD,0.0,0,0,0
+USPS2,0.0,0,0,0
+Tract,0.0,0,0,0
+DIRT BIKE,1.0,1,0,0
+NYS Ambula,0.0,0,0,0
+FORD,0.0,0,0,0
+box truck,2.0,0,0,2
+prks,1.0,1,0,0
+GARBAGE TR,4.0,1,0,3
+UHAUL,0.0,0,0,0
+ACCES,0.0,0,0,0
+TKTR,1.0,0,0,1
+ICE C,1.0,1,0,0
+motor,2.0,1,0,1
+Garba,0.0,0,0,0
+Motorized,0.0,0,0,0
+FORK,0.0,0,0,0
+City,0.0,0,0,0
+kick scoot,1.0,0,0,1
+Pass,3.0,0,0,3
+TANK,1.0,0,0,1
+VERZION VA,1.0,1,0,0
+NYC D,0.0,0,0,0
+CMIXER,0.0,0,0,0
+work,0.0,0,0,0
+FOOD CART,0.0,0,0,0
+Pro master,0.0,0,0,0
+SKATE,1.0,1,0,0
+0,0.0,0,0,0
+Horse carr,0.0,0,0,0
+Rescu,0.0,0,0,0
+Garbage,1.0,1,0,0
+EMRGN,0.0,0,0,0
+PICK-,1.0,1,0,0
+USPS Truck,0.0,0,0,0
+SKATEBOARD,2.0,0,0,2
+Pick up tr,1.0,1,0,0
+commercial,0.0,0,0,0
+GRAY,0.0,0,0,0
+FDNY LADER,0.0,0,0,0
+BOBCAT,0.0,0,0,0
+Delv,0.0,0,0,0
+LTRL,0.0,0,0,0
+POWER SHOV,0.0,0,0,0
+STREET CLE,0.0,0,0,0
+rv,3.0,0,0,3
+3 WHE,0.0,0,0,0
+unknown,0.0,0,0,0
+con ed tru,0.0,0,0,0
+12 PASSENG,0.0,0,0,0
+Fork lift,1.0,1,0,0
+OMR,0.0,0,0,0
+SEDAN,1.0,0,1,0
+�MBU,0.0,0,0,0
+VAN T,0.0,0,0,0
+MAC T,0.0,0,0,0
+backh,1.0,1,0,0
+PU,0.0,0,0,0
+WAGON,0.0,0,0,0
+FDNY #226,0.0,0,0,0
+nat grid t,1.0,0,0,1
+St,0.0,0,0,0
+Pas (4dr s,0.0,0,0,0
+Van truck,0.0,0,0,0
+SEGWA,2.0,0,0,2
+F550,1.0,0,0,1
+USP M,0.0,0,0,0
+Backhoe Lo,0.0,0,0,0
+Sanitation,0.0,0,0,0
+usps,2.0,0,0,2
+Vanette,0.0,0,0,0
+PUSH SCOOT,1.0,0,0,1
+USPS/GOVT,0.0,0,0,0
+Commercial,0.0,0,0,0
+TLR,0.0,0,0,0
+POSTO,0.0,0,0,0
+tr,0.0,0,0,0
+tractor tr,0.0,0,0,0
+US Po,0.0,0,0,0
+Unk,0.0,0,0,0
+CATAPILLAR,0.0,0,0,0
+BTM,0.0,0,0,0
+CARGO VAN,0.0,0,0,0
+E scooter,1.0,0,0,1
+Motor Home,0.0,0,0,0
+Garbage Tr,0.0,0,0,0
+gas mo ped,1.0,0,0,1
+Pick wh,0.0,0,0,0
+YELLO,0.0,0,0,0
+postal tru,0.0,0,0,0
+Stree,0.0,0,0,0
+mta b,1.0,1,0,0
+AMbul,0.0,0,0,0
+FDNY Fire,0.0,0,0,0
+food truck,0.0,0,0,0
+NYC SANITA,1.0,1,0,0
+UT,0.0,0,0,0
+ELEC. UNIC,2.0,1,0,1
+Motor,1.0,0,0,1
+NYPD VAN,0.0,0,0,0
+SEMI TRAIL,0.0,0,0,0
+CAT,0.0,0,0,0
+FREIG,0.0,0,0,0
+fire,0.0,0,0,0
+FRONT,12.0,0,0,12
+ROAD SWEEP,0.0,0,0,0
+HI TA,0.0,0,0,0
+WORK,0.0,0,0,0
+box t,0.0,0,0,0
+UPS TRUCK,1.0,0,0,1
+UTILITY WH,0.0,0,0,0
+fdny ems,0.0,0,0,0
+R/V C,0.0,0,0,0
+Mini Van,0.0,0,0,0
