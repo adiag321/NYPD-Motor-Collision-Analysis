@@ -3,6 +3,12 @@
 ## Overview:
 Within the five boroughs that make up New York City, around 8.2 million people dwell. Thousands of accidents occur each year as a result of a variety of circumstances. The NYPD gathers data on each of these accidents and makes it available to the public on <a href = "nycopendata.socrata.com">nycopendata.socrata.com</a>. We decided to dig deeper into the crash data to see if there were any underlying patterns or relationships that could explain the high frequency of collisions. From `July 2012` to `March 2022`, the data included almost `2,00,000` observations.
 
+* 
+For Performing our "Analysis" we have used `Google Clould Platform` and `Tableau`, and `Python` to perform "Data Cleaning". After our analysis, we have generated a report using `Google Slides` to share our Insights and give Recommendations.
+
+Tableau Story Link: https://public.tableau.com/app/profile/aditya.agarwal1269/viz/NYPDMotorCollisionProject/Story1
+
+
 ## Data Description:
 The Motor Vehicle Collisions crash table contains details on the crash event. Each row represents a crash event. The Motor Vehicle Collisions data tables contain information from all police reported motor vehicle collisions in NYC. The police report (MV104-AN) is required to be filled out for collisions where someone is injured or killed, or where there is at least $1000 worth of damage
 
@@ -15,38 +21,41 @@ Before exploring the data, we created a list of questions we wanted to address:
 2. Is there a relationship between the time of day and the contributing factors of the accident? (`Time Series Analysis`)
 3. Which areas are more "Collision-prone" areas? (`Collision prone analysis`)
 
-## Methods:
-For Performing our "Analysis" we have used `Google Clould Platform` and `Tableau`, and `Python` to perform "Data Cleaning".
-1. UNDERSTANDING THE DATA:
+## Approach:
+1. UNDERSTANDING THE DATA - 
 It is important to understand our data and our problem statement i.e., how to decrease the number of injuries and deaths in New York City.
 
-2. PREPARING THE DATA
+2. PREPARING THE DATA -
 After understanding our dataset, it is essential to prepare the data. We have used GCP Big Query to remove null values and duplicate entries. 
 
-3. PERFORM ANALYSIS
+3. PERFORM ANALYSIS - 
 We have carried out a Time-series analysis and made dashboards to understand more about the factors and causes of Motor collisions in New York City.
 
-4. GET INSIGHTS
+4. GET INSIGHTS - 
 We generated interactive tableau dashboards to support our findings and get insights from the data.
 
-5. GIVE RECOMMENDATIONS
+5. GIVE RECOMMENDATIONS - 
 Based on our analysis, we will provide recommendations to decrease the number of Motor collisions.
 
 ## Results:
 1. Analysis performed using `Google Cloud Platform`:
 
 A) Most Injuries and Deaths were caused due to which Vehicle type?
+
 ![text](https://github.com/adiag321/NYPD-Motor-Collision-Analysis/blob/ba30e0711a7b01b9d15cf14126d3c17e95719a36/Query_Images/4_Vehicle_Causing_Most_Injuries_Deaths.png)
 
 B) Most of the collisions was caused due to which factor?
+
 ![text](https://github.com/adiag321/NYPD-Motor-Collision-Analysis/blob/419b5a57478916001520d70b07c8b3180945a7b5/Query_Images/1_Factor_Highest_Collision.png)
 
 2. Analysis performed using `Tableau`:
 
 A) Detecting Collision-Prone Areas - 
+
 ![text](https://github.com/adiag321/NYPD-Motor-Collision-Analysis/blob/419b5a57478916001520d70b07c8b3180945a7b5/Report/Detecting%20Collision%20Prone%20Areas.png)
 
 B) Time Series Analysis - 
+
 ![text](https://github.com/adiag321/NYPD-Motor-Collision-Analysis/blob/419b5a57478916001520d70b07c8b3180945a7b5/Report/TIme%20Series%20Analysis%20of%20Motor%20Collision.png)
 
 ## Insights:
