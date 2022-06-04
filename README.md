@@ -3,8 +3,11 @@
 ## Overview:
 Within the five boroughs that make up New York City, around 8.2 million people dwell. Thousands of accidents occur each year as a result of a variety of circumstances. The NYPD gathers data on each of these accidents and makes it available to the public on <a href = "nycopendata.socrata.com">nycopendata.socrata.com</a>. We decided to dig deeper into the crash data to see if there were any underlying patterns or relationships that could explain the high frequency of collisions. From `July 2012` to `March 2022`, the data included almost `2,00,000` observations.
 
-* 
-For Performing our "Analysis" we have used `Google Clould Platform` and `Tableau`, and `Python` to perform "Data Cleaning". After our analysis, we have generated a report using `Google Slides` to share our Insights and give Recommendations.
+Methods - 
+* We accessed the data from "nycopendata.com" using `Open Data API` (OData api) and performed Data Connection with `Tableau`.
+* Then, we cleaned the data using `Python` and stored in "Google Cloud Storage" as a `Bucket` to create a virtual instance.
+* We performed our analysis using "Google's Big Query" in `Google Clould Platform` and stored the query results in form of CSV files.
+* After our analysis, we have generated a report using `Google Slides` to share our Insights and give Recommendations.
 
 Tableau Story Link: https://public.tableau.com/app/profile/aditya.agarwal1269/viz/NYPDMotorCollisionProject/Story1
 
@@ -13,13 +16,6 @@ Tableau Story Link: https://public.tableau.com/app/profile/aditya.agarwal1269/vi
 The Motor Vehicle Collisions crash table contains details on the crash event. Each row represents a crash event. The Motor Vehicle Collisions data tables contain information from all police reported motor vehicle collisions in NYC. The police report (MV104-AN) is required to be filled out for collisions where someone is injured or killed, or where there is at least $1000 worth of damage
 
 Dataset link: https://data.cityofnewyork.us/Public-Safety/Motor-Vehicle-Collisions-Crashes/h9gi-nx95
-
-## Questions for Analysis:
-Before exploring the data, we created a list of questions we wanted to address:
-
-1. Is there a trend in the number of accidents?
-2. Is there a relationship between the time of day and the contributing factors of the accident? (`Time Series Analysis`)
-3. Which areas are more "Collision-prone" areas? (`Collision prone analysis`)
 
 ## Approach:
 1. UNDERSTANDING THE DATA - 
@@ -36,6 +32,13 @@ We generated interactive tableau dashboards to support our findings and get insi
 
 5. GIVE RECOMMENDATIONS - 
 Based on our analysis, we will provide recommendations to decrease the number of Motor collisions.
+
+## Questions for Analysis:
+Before exploring the data, we created a list of questions we wanted to address:
+
+1. Is there a trend in the number of accidents?
+2. Is there a relationship between the time of day and the contributing factors of the accident? (`Time Series Analysis`)
+3. Which areas are more "Collision-prone" areas? (`Collision prone analysis`)
 
 ## Results:
 1. Analysis performed using `Google Cloud Platform`:
