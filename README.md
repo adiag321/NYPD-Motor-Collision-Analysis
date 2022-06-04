@@ -17,11 +17,56 @@ Before exploring the data, we created a list of questions we wanted to address:
 
 ## Methods:
 For Performing our "Analysis" we have used `Google Clould Platform` and `Tableau`, and `Python` to perform "Data Cleaning".
+1. UNDERSTANDING THE DATA:
+It is important to understand our data and our problem statement i.e., how to decrease the number of injuries and deaths in New York City.
 
-1. Google Cloud Platform Analysis Results:
+2. PREPARING THE DATA
+After understanding our dataset, it is essential to prepare the data. We have used GCP Big Query to remove null values and duplicate entries. 
+
+3. PERFORM ANALYSIS
+We have carried out a Time-series analysis and made dashboards to understand more about the factors and causes of Motor collisions in New York City.
+
+4. GET INSIGHTS
+We generated interactive tableau dashboards to support our findings and get insights from the data.
+
+5. GIVE RECOMMENDATIONS
+Based on our analysis, we will provide recommendations to decrease the number of Motor collisions.
+
+## Results:
+1. Analysis performed using `Google Cloud Platform`:
 
 A) Most Injuries and Deaths were caused due to which Vehicle type?
-
 ![text](https://github.com/adiag321/NYPD-Motor-Collision-Analysis/blob/ba30e0711a7b01b9d15cf14126d3c17e95719a36/Query_Images/4_Vehicle_Causing_Most_Injuries_Deaths.png)
+
+B) Most of the collisions was caused due to which factor?
+![text](https://github.com/adiag321/NYPD-Motor-Collision-Analysis/blob/419b5a57478916001520d70b07c8b3180945a7b5/Query_Images/1_Factor_Highest_Collision.png)
+
+2. Analysis performed using `Tableau`:
+
+A) Detecting Collision-Prone Areas - 
+![text](https://github.com/adiag321/NYPD-Motor-Collision-Analysis/blob/419b5a57478916001520d70b07c8b3180945a7b5/Report/Detecting%20Collision%20Prone%20Areas.png)
+
+B) Time Series Analysis - 
+![text](https://github.com/adiag321/NYPD-Motor-Collision-Analysis/blob/419b5a57478916001520d70b07c8b3180945a7b5/Report/TIme%20Series%20Analysis%20of%20Motor%20Collision.png)
+
+## Insights:
+1. Between 4 pm to 5 pm was the peak time of the day when the maximum number of people got injured.
+2. The number of people getting injured was rising from 2012 and was at its peak in 2018 with a value of 123,859 injuries.
+3. In 2018, the total number of injured people decreased to 29,604 injuries in 2022.
+4. The highest number of deaths and injuries were majorly caused by a lack of "Driver’s attention." The other factors also point toward the Driver’s lack of driving skills.
+5. Most of the accidents were caused by Sports utility/Station wagon vehicles, followed by Sedan and Passenger vehicles.
+6. Also, 4 - wheeled vehicles were more prone to accidents than 2 - wheeled vehicles.
+
+## Recommendations:
+1. Increase the number of Traffic Officers between 4 pm and 6 pm on days with the highest accident rates.
+2. Raise the availability of ambulances between 1 pm to 5 pm in collision-prone areas.
+3. Provide a more robust and efficient Public transit system to encourage usage by commuters.
+4. Focus on high collision-prone areas such as 11236, 11207, and 11234 in prioritizing new projects like traffic lights or street signs.
+5. Increase the frequency of driver re-training and more strict fines for repeat offenders.
+6. Increase the awareness about the use of public transport the commuters instead of walking or using personal vehicles to reduce accidents.
+7. Among all the boroughs, BROOKLYN and QUEENS had the highest number of deaths in New York City.
+
+
+
 
 
