@@ -11,7 +11,7 @@ Methods -
 
 Tableau Story Link: https://public.tableau.com/app/profile/aditya.agarwal1269/viz/NYPDMotorCollisionProject/Story1
 
-Report Link (Google Slides): https://docs.google.com/presentation/d/1JVpA3Hd5fNac-J2bqfGZ19TQpEDmUoA4/edit?usp=sharing&ouid=107239523897557799213&rtpof=true&sd=true
+Report Link (Google Slides): https://drive.google.com/file/d/1eOxLS20c-pkT_Kk3V77dT1m0FzTU6Dpq/view?usp=sharing
 
 ## Data Description:
 The Motor Vehicle Collisions crash table contains details on the crash event. Each row represents a crash event. The Motor Vehicle Collisions data tables contain information from all police reported motor vehicle collisions in NYC. The police report (MV104-AN) is required to be filled out for collisions where someone is injured or killed, or where there is at least $1000 worth of damage
