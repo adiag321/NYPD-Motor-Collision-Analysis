@@ -4,14 +4,14 @@
 Within the five boroughs that make up New York City, around 8.2 million people dwell. Thousands of accidents occur each year as a result of a variety of circumstances. The NYPD gathers data on each of these accidents and makes it available to the public on <a href = "nycopendata.socrata.com">nycopendata.socrata.com</a>. We decided to dig deeper into the crash data to see if there were any underlying patterns or relationships that could explain the high frequency of collisions. From `July 2012` to `March 2022`, the data included almost `2,00,000` observations.
 
 Methodology - 
-* We accessed the data from "nycopendata.com" using `Open Data API` (OData api) and performed Data Connection with `Tableau`.
-* Then, we cleaned the data using `Python` and stored in "Google Cloud Storage" as a `Bucket` to create a virtual instance.
-* We performed our analysis using "Google's Big Query" in `Google Clould Platform` and stored the query results in form of CSV files.
-* After our analysis, we have generated a report using `Google Slides` to share our Insights and give Recommendations.
+* We accessed the data from "nycopendata.com" using Open Data API (OData API) and performed Data Connection with Tableau.
+* Then, we cleaned the data using Python and stored it in "Google Cloud Storage" as a Bucket to create a virtual instance.
+* We performed our analysis using "Google's Big Query" in Google Cloud Platform and stored the query results in CSV files.
+* After our analysis, we have generated a report using Google Slides to share our Insights and give Recommendations.
 
 Tableau Story Link: https://public.tableau.com/app/profile/aditya.agarwal1269/viz/NYPDMotorCollisionProject/Story1
 
-Report Link (Google Slides): https://drive.google.com/file/d/1eOxLS20c-pkT_Kk3V77dT1m0FzTU6Dpq/view?usp=sharing
+Report Link (Google Slides): https://drive.google.com/file/d/1BqFeUoo0dR4NGAWklwqNLZqoEyXB9tKD/view?usp=sharing
 
 ## DATA DESCRIPTION:
 The Motor Vehicle Collisions crash table contains details on the crash event. Each row represents a crash event. The Motor Vehicle Collisions data tables contain information from all police reported motor vehicle collisions in NYC. The police report (MV104-AN) is required to be filled out for collisions where someone is injured or killed, or where there is at least $1000 worth of damage.
