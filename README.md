@@ -3,11 +3,11 @@
 ## OVERVIEW:
 Within the five boroughs that make up New York City, around 8.2 million people dwell. Thousands of accidents occur each year as a result of a variety of circumstances. The NYPD gathers data on each of these accidents and makes it available to the public on <a href = "nycopendata.socrata.com">nycopendata.socrata.com</a>. We decided to dig deeper into the crash data to see if there were any underlying patterns or relationships that could explain the high frequency of collisions. From `July 2012` to `March 2022`, the data included almost `2,00,000` observations.
 
-Methodology - 
-* We accessed the data from "nycopendata.com" using Open Data API (OData API) and performed Data Connection with Tableau.
-* Then, we cleaned the data using Python and stored it in "Google Cloud Storage" as a Bucket to create a virtual instance.
-* We performed our analysis using "Google's Big Query" in Google Cloud Platform and stored the query results in CSV files.
-* After our analysis, we have generated a report using Google Slides to share our Insights and give Recommendations.
+## BRIEF - 
+* We accessed the data from "nycopendata.com" using `Open Data API` (OData API) and performed Data Connection with Tableau.
+* Then, we cleaned the data using Python and stored it in `Google Cloud Storage` as a Bucket to create a virtual instance.
+* We performed our analysis using `Google's Big Query` in Google Cloud Platform and stored the query results in CSV files.
+* After our analysis, we have generated a report using Google Sites to share our Insights and give Recommendations.
 
 Tableau Story Link: https://public.tableau.com/app/profile/aditya.agarwal1269/viz/NYPDMotorCollisionProject/Story1
 
