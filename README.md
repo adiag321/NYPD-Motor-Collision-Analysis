@@ -11,7 +11,7 @@ Within the five boroughs that make up New York City, around 8.2 million people d
 
 Tableau Story Link: https://public.tableau.com/app/profile/aditya.agarwal1269/viz/NYPDMotorCollisionProject/Story1
 
-Report Link (Google Slides): https://drive.google.com/file/d/1BqFeUoo0dR4NGAWklwqNLZqoEyXB9tKD/view?usp=sharing
+Report Link (Google Slides): https://drive.google.com/file/d/16r6KAuHcV5lPYZfqCMQMxOaRkbRwGH77/view?usp=sharing
 
 ## DATA DESCRIPTION:
 The Motor Vehicle Collisions crash table contains details on the crash event. Each row represents a crash event. The Motor Vehicle Collisions data tables contain information from all police reported motor vehicle collisions in NYC. The police report (MV104-AN) is required to be filled out for collisions where someone is injured or killed, or where there is at least $1000 worth of damage.
